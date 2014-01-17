@@ -1,6 +1,25 @@
 
 A dummy package to explore R extensions
 
+
+
+
+
+## Installation
+
+
+download the [zip ball](https://github.com/vinux/dummy/zipball/master) or [tar ball](https://github.com/vinux/dummy/tarball/master), decompress and run `R CMD INSTALL` on it, or use the **devtools** package to install the development version:
+
+```r
+# install.packages("devtools")
+
+library(devtools)
+#Install the development versions of slidify and its libraries
+install_github('dummy', 'vinux')
+```
+
+
+
 Plan
 
 - Package with single function
