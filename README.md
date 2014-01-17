@@ -14,7 +14,6 @@ download the [zip ball](https://github.com/vinux/dummy/zipball/master) or [tar b
 # install.packages("devtools")
 
 library(devtools)
-#Install the development versions of slidify and its libraries
 install_github('dummy', 'vinux')
 ```
 
