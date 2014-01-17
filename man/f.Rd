@@ -1,7 +1,7 @@
 \name{f}
 \alias{f}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{ Chumma
 %%  ~~function to do ... ~~
 }
 \description{
