@@ -21,7 +21,7 @@ install_github('dummy', 'vinux')
 
 Plan
 
-- Package with single function
+- Package with single function  *DONE*
 - Creating a demo
 - vignettes/helpfiles
 - roxygen *
