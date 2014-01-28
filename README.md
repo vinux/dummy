@@ -1,4 +1,3 @@
-
 A dummy package to explore R extensions
 
 
@@ -23,6 +22,7 @@ Plan
 
 - Package with single function  **DONE**
 - Creating a demo               **DONE**
+- Add data file
 - vignettes/helpfiles
 - roxygen *
 - Creating S4 classes
