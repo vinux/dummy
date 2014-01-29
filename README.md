@@ -22,7 +22,7 @@ Plan
 
 - Package with single function  **DONE**
 - Creating a demo               **DONE**
-- Add data file
+- Add data file                 **DONE**
 - vignettes/helpfiles
 - roxygen *
 - Creating S4 classes
