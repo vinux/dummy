@@ -3,6 +3,7 @@
 \docType{data}
 \title{ bla}
 \description{
+Unique data
 %%  ~~ A concise (1-5 lines) description of the dataset. ~~
 }
 \usage{data(e)}
