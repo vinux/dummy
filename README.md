@@ -1,6 +1,4 @@
-A dummy package to explore R extensions
-
-
+dummy: A package to explore R extensions
 
 
 
