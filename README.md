@@ -21,7 +21,7 @@ Plan
 - Package with single function  **DONE**
 - Creating a demo               **DONE**
 - Add data file                 **DONE**
-- Complete documentation        
+- Complete documentation        _IN PROGRESS_
 - vignettes/helpfiles
 - roxygen *
 - Creating S4 classes
