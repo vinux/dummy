@@ -1,4 +1,4 @@
 
 # Addition function f
 f <-
-function(x, y) x+y+1
+function(x, y) x+y+2
