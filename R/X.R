@@ -1,2 +1,2 @@
 # Dataset creation.
-X=1:11
+X=1:10
